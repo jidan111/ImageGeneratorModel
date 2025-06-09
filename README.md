@@ -1,5 +1,20 @@
 # ImageGeneratorModel
 用于学习的图片生成模型实现，包含GAN,VAE,Diffusion  
+部分模型结果：
+<!-- 第一行 -->
+<div style="display: flex; justify-content: center; margin-bottom: 10px;">
+  <img src="./result/dcgan.png" width="256" alt="dcgan" style="margin-right: 10px;"/>
+  <img src="./result/ddpm.png" width="256" alt="ddpm" style="margin-right: 10px;"/>
+  <img src="./result/ddim.png" width="256" alt="ddim"/>
+</div>
+
+<!-- 第二行 -->
+<div style="display: flex; justify-content: center;">
+  <img src="./result/vae.png" width="256" alt="vae" style="margin-right: 10px;"/>
+  <img src="./result/ddpm2.png" width="256" alt="aapm2"/>
+</div>
+
+代码框架：
 		./LinLanDeepLearningFrame/  
 		  ├── ImageGeneratorModel/  
 		  │   ├── BaseStruct.py  
