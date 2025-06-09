@@ -1,10 +1,7 @@
 # ImageGeneratorModel
 用于学习的图片生成模型实现，包含GAN,VAE,Diffusion  
 部分模型结果：
-<!-- 新增的一行：GIF 居中 -->
-<div style="display: flex; justify-content: center; margin-bottom: 10px;">
-  <img src="./result/out.gif" width="256" alt="动画描述" />
-</div>
+![演示动画](https://github.com/jidan111/ImageGeneratorModel/blob/main/result/output.gif)
 
 <!-- 第一行 -->
 <div style="display: flex; justify-content: center; margin-bottom: 10px;">
