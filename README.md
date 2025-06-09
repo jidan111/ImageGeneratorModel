@@ -1,2 +1,5 @@
 # ImageGeneratorModel
 用于学习的图片生成模型实现，包含GAN,VAE,Diffusion
+
+在LinLanDeepLearningFrame.ImageGeneratorModel.utils里面包含了各个模型的训练函数，支持混合精度训练
+
