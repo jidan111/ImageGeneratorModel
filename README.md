@@ -1,6 +1,6 @@
 # ImageGeneratorModel
 用于学习的图片生成模型实现，包含GAN,VAE,Diffusion  
-部分模型结果：
+部分模型结果：  
 ![演示动画](./result/output.gif)
 
 <!-- 第一行 -->
