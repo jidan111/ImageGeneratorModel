@@ -1,6 +1,9 @@
 # ImageGeneratorModel
 用于学习的图片生成模型实现，包含GAN,VAE,Diffusion  
 部分模型结果：
+<div style="display: flex; justify-content: center; margin-bottom: 10px;">
+  <img src="./result/out.gif" width="256" alt="ddpm输出" />
+</div>
 <!-- 第一行 -->
 <div style="display: flex; justify-content: center; margin-bottom: 10px;">
   <img src="./result/dcgan.png" width="256" alt="dcgan" style="margin-right: 10px;"/>
